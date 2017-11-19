@@ -10,12 +10,12 @@
 
 ![Alt text](figure/colorblind.png)
 
-**Fig 2:** This image shows the perception of Fig1 by color blind people. For them, red and green seems similar.
+**Fig 2:** This image shows the perception of Fig1 by color blind people. For them, red and green seem similar.
 This figure is generated [here](http://www.color-blindness.com/coblis-color-blindness-simulator/).
 
 #### AESTHETIC:
-* The green represents health trees, yellow means fair, and warning color red means poor. The colors are consistent with our common sense on good, fair, and poor.
-* I might also recommend to sort these five bars ascending or descending by tree count, so that it would be even more easier to read.
+* The green represents health trees, yellow means fair, and warning color red means poor. The colors are consistent with our common sense color of good, fair, and poor.
+* I might also recommend sorting these five bars ascending or descending by tree count so that it would be even easier to read.
 
 #### HONESTY:
-* The figure is honest in regard to the value because the y axis starts from zero and records the absolute counts of trees.
+* The figure is honest in regard to the value because the y-axis starts from zero and records the absolute counts of trees.
