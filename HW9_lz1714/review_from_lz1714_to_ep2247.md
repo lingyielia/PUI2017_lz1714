@@ -6,7 +6,7 @@ Figure 1: Map showing all of the places public recycling bins are located throug
 #### CLARITY:
 * This map is easy to read, with every point represents a location.
 * title, label, axis are all clear. Font sizes are large enough.
-* As the public recycling bins have two types: __green bins__ for recycle newspapers, magazines, and mixed paper; __blue bins__ for recycle metal, glass bottles and jars, rigid plastic containers, and food and beverage cartons [1]. For people knowing this, the blue color may cause misunderstanding. They might thought this map tells locations of blue bins only before carefully read the caption.
+* As the public recycling bins have two types: __green bins__ for recycling newspapers, magazines, and mixed paper; __blue bins__ for recycling metal, glass bottles and jars, rigid plastic containers, and food and beverage cartons [1]. For people knowing this, the blue color may cause misunderstanding. They might think this map tells locations of blue bins only before carefully read the caption.
 * It would be even better if the data source been stated.
 
 #### AESTHETIC:
