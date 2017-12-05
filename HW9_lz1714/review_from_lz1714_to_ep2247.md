@@ -20,7 +20,12 @@ For further study:
 This plot is interesting because we can see those bins are aggregated in some small areas, instead of evenly distributed on the map.
 What attributes do these small areas have in common?
 
+# FBB 
 
+clarity: as the points do not have any rtansparency in locations where there are multiple bins the used sees a cluster but cannot tell what the actual number of bins is where they overlap 
 
 ### Reference:
 [1]What To Put in Public Recycling Bins. Accessed 2017-11-19. Retrieved from: http://www1.nyc.gov/assets/dsny/zerowaste/residents/public-spaces.shtml
+
+
+10/10
