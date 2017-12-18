@@ -63,5 +63,5 @@ def radar_graph(labels = [], values = [], optimum = []):
     ax.plot(theta, values, color='k')
     ax.plot(theta, optimum, color='r')
     ax.set_varlabels(labels)
-    plt.show()
-    #plt.savefig("radar.png", dpi=100)
+    #plt.show()
+    plt.savefig("radar.png", dpi=100)
