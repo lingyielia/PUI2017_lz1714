@@ -51,15 +51,17 @@ def _radar_factory(num_vars):
             spine.set_transform(self.transAxes)
             return {'polar': spine}
 
+
+
     register_projection(RadarAxes)
     return theta
 
-def radar_graph(labels = [], values = [], optimum = []):
+def radar_graph(labels = [], values = [], optimum = [], i=None, ax=None):
     N = len(labels) 
     theta = _radar_factory(N)
     max_val = max(max(optimum), max(values))
-    fig = plt.figure(figsize=(0.7,0.7))
-    ax = fig.add_subplot(1, 1, 1, projection='radar')
+    #fig = plt.figure(figsize=(15, 48))
+    #ax = fig.add_subplot(16, 5, i+1, projection='radar')
     
     ax.plot(theta, values, color='r')
     ax.plot(theta, optimum, color='k')
