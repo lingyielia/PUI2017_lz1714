@@ -21,6 +21,15 @@ This plot is interesting because we can see those bins are aggregated in some sm
 What attributes do these small areas have in common?
 
 
-
 ### Reference:
 [1]What To Put in Public Recycling Bins. Accessed 2017-11-19. Retrieved from: http://www1.nyc.gov/assets/dsny/zerowaste/residents/public-spaces.shtml
+
+
+# FBB 
+
+clarity: as the points do not have any rtansparency in locations where there are multiple bins the used sees a cluster but cannot tell what the actual number of bins is where they overlap 
+
+if using the axis labels (which is not strictly necessary for NYC given its characteristic shape) you should add the inuts (degrees)
+
+
+10/10
